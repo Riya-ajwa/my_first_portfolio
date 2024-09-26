@@ -1,0 +1,42 @@
+/* General Styles */
+body{
+    font-family: Arial,sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/*Header styles  */
+header{
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 0;
+
+}
+
+/* Section styles */
+section{
+      margin-top: 20px;  <!-- from top 20px distance should be there the margin -->
+
+}
+
+/* Image Styles */
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+/* Link Styles */
+a{
+    color: #4CAF50;
+    text-decoration: none;
+
+}
+/* Footer Styles */
+footer{
+    margin-top: 30px;
+    color: gray;
+}
